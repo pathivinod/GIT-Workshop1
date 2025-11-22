@@ -1,6 +1,9 @@
 vinod
+<<<<<<< HEAD
 ggrrhbrh
 
 gjugultguk
 fhfhjf
 sadfghjk
+=======
+>>>>>>> 3e07f32 (vinod)
